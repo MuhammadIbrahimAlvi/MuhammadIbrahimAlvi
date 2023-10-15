@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+ <img src="https://komarev.com/ghpvc/?username=MuhammadIbrahimAlvi&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="MuhammadIbrahimAlvi" />
 <div id="badges" align="center">
   <a href="(https://www.linkedin.com/in/ibrahim-alvi-32a96a1a3/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">
-  Hey I'm Muhammad Ibrahim Alvi, I'm a Full Stack Developer. Currently working as a BackEnd Engineer.
+  Hey, I'm Muhammad Ibrahim Alvi, I'm a Full Stack Developer. Currently working as a BackEnd Engineer.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
